@@ -22,7 +22,6 @@
 *.synctex.gz
 *.dvi
 *.ps
-*.pdf
 *.thm
 *.nav
 *.snm
